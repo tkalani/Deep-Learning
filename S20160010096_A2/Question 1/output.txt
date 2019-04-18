@@ -1,0 +1,182 @@
+Requirement already satisfied: gdown==3.6.0 in /usr/local/lib/python3.6/dist-packages (3.6.0)
+Requirement already satisfied: tqdm in /usr/local/lib/python3.6/dist-packages (from gdown==3.6.0) (4.28.1)
+Requirement already satisfied: requests in /usr/local/lib/python3.6/dist-packages (from gdown==3.6.0) (2.18.4)
+Requirement already satisfied: six in /usr/local/lib/python3.6/dist-packages (from gdown==3.6.0) (1.11.0)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in /usr/local/lib/python3.6/dist-packages (from requests->gdown==3.6.0) (3.0.4)
+Requirement already satisfied: idna<2.7,>=2.5 in /usr/local/lib/python3.6/dist-packages (from requests->gdown==3.6.0) (2.6)
+Requirement already satisfied: urllib3<1.23,>=1.21.1 in /usr/local/lib/python3.6/dist-packages (from requests->gdown==3.6.0) (1.22)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.6/dist-packages (from requests->gdown==3.6.0) (2019.3.9)
+
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+
+no. of images = 3126
+
+Test Shape = (64, 64, 3)
+
+Number Of Batches = 92
+
+Number of Bactches = 92
+Batch Size = 32
+
+Model Shape = (None, 64, 64, 3)
+(1, 64, 64, 3)
+
+tf.Tensor([[-4.633789e-05]], shape=(1, 1), dtype=float32)
+
+Model Shape = (None, 64, 64, 3)
+<tensorflow.python.training.tracking.util.CheckpointLoadStatus at 0x7f6608701940>
+
+Epoch = 1
+	Generator Loss = 0.6629452705383301
+	Discriminator Loss = 1.5180408954620361
+Epoch = 2
+	Generator Loss = 0.8386759757995605
+	Discriminator Loss = 1.726381540298462
+Epoch = 3
+	Generator Loss = 0.6897421479225159
+	Discriminator Loss = 2.3241591453552246
+Epoch = 4
+	Generator Loss = 0.5673015117645264
+	Discriminator Loss = 1.4632339477539062
+Epoch = 5
+	Generator Loss = 0.9094069004058838
+	Discriminator Loss = 1.1261262893676758
+Epoch = 6
+	Generator Loss = 0.5155985355377197
+	Discriminator Loss = 3.007080078125
+Epoch = 7
+	Generator Loss = 0.792665958404541
+	Discriminator Loss = 1.2822015285491943
+Epoch = 8
+	Generator Loss = 1.0539584159851074
+	Discriminator Loss = 1.1554920673370361
+Epoch = 9
+	Generator Loss = 0.9973230957984924
+	Discriminator Loss = 1.146801233291626
+Epoch = 10
+	Generator Loss = 0.602108359336853
+	Discriminator Loss = 1.4534798860549927
+Epoch = 11
+	Generator Loss = 0.6819441914558411
+	Discriminator Loss = 1.5083156824111938
+Epoch = 12
+	Generator Loss = 1.0415568351745605
+	Discriminator Loss = 2.5716629028320312
+Epoch = 13
+	Generator Loss = 0.8818533420562744
+	Discriminator Loss = 1.0927492380142212
+Epoch = 14
+	Generator Loss = 1.5550658702850342
+	Discriminator Loss = 0.6070568561553955
+Epoch = 15
+	Generator Loss = 1.1079895496368408
+	Discriminator Loss = 1.6635271310806274
+Epoch = 16
+	Generator Loss = 0.844281792640686
+	Discriminator Loss = 1.8323417901992798
+Epoch = 17
+	Generator Loss = 1.2332159280776978
+	Discriminator Loss = 1.5380809307098389
+Epoch = 18
+	Generator Loss = 1.0176029205322266
+	Discriminator Loss = 1.139761209487915
+Epoch = 19
+	Generator Loss = 1.362500548362732
+	Discriminator Loss = 0.729859471321106
+Epoch = 20
+	Generator Loss = 1.6559642553329468
+	Discriminator Loss = 0.7194187045097351
+Epoch = 21
+	Generator Loss = 1.8009933233261108
+	Discriminator Loss = 0.627201497554779
+/usr/local/lib/python3.6/dist-packages/matplotlib/pyplot.py:514: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  max_open_warning, RuntimeWarning)
+Epoch = 22
+	Generator Loss = 0.8259885311126709
+	Discriminator Loss = 1.1466271877288818
+Epoch = 23
+	Generator Loss = 1.3518774509429932
+	Discriminator Loss = 0.6563110947608948
+Epoch = 24
+	Generator Loss = 1.1823673248291016
+	Discriminator Loss = 2.0914342403411865
+Epoch = 25
+	Generator Loss = 1.0142853260040283
+	Discriminator Loss = 1.2964026927947998
+Epoch = 26
+	Generator Loss = 1.1848443746566772
+	Discriminator Loss = 0.9073576927185059
+Epoch = 27
+	Generator Loss = 1.8574355840682983
+	Discriminator Loss = 0.6364895105361938
+Epoch = 28
+	Generator Loss = 0.7712955474853516
+	Discriminator Loss = 1.238171100616455
+Epoch = 29
+	Generator Loss = 0.9115978479385376
+	Discriminator Loss = 1.2644065618515015
+Epoch = 30
+	Generator Loss = 0.905990719795227
+	Discriminator Loss = 1.877732753753662
+Epoch = 31
+	Generator Loss = 2.1001670360565186
+	Discriminator Loss = 0.7183194756507874
+Epoch = 32
+	Generator Loss = 1.6129915714263916
+	Discriminator Loss = 0.6400972604751587
+Epoch = 33
+	Generator Loss = 1.3845489025115967
+	Discriminator Loss = 0.6273579597473145
+Epoch = 34
+	Generator Loss = 1.6922216415405273
+	Discriminator Loss = 0.7308480143547058
+Epoch = 35
+	Generator Loss = 1.2756106853485107
+	Discriminator Loss = 1.022593379020691
+Epoch = 36
+	Generator Loss = 1.6428911685943604
+	Discriminator Loss = 0.5864934921264648
+Epoch = 37
+	Generator Loss = 1.3349523544311523
+	Discriminator Loss = 0.8115954399108887
+Epoch = 38
+	Generator Loss = 1.3039597272872925
+	Discriminator Loss = 0.7352595329284668
+Epoch = 39
+	Generator Loss = 1.400771975517273
+	Discriminator Loss = 0.8799190521240234
+Epoch = 40
+	Generator Loss = 1.2339320182800293
+	Discriminator Loss = 0.8202944397926331
+Epoch = 41
+	Generator Loss = 1.1269779205322266
+	Discriminator Loss = 1.1559622287750244
+Epoch = 42
+	Generator Loss = 0.8750499486923218
+	Discriminator Loss = 1.8103910684585571
+Epoch = 43
+	Generator Loss = 1.3766593933105469
+	Discriminator Loss = 1.20815110206604
+Epoch = 44
+	Generator Loss = 1.459891438484192
+	Discriminator Loss = 0.9868248701095581
+Epoch = 45
+	Generator Loss = 1.1707805395126343
+	Discriminator Loss = 1.1072313785552979
+Epoch = 46
+	Generator Loss = 0.8002620935440063
+	Discriminator Loss = 1.2319495677947998
+Epoch = 47
+	Generator Loss = 1.2922102212905884
+	Discriminator Loss = 0.922977089881897
+Epoch = 48
+	Generator Loss = 0.8936588168144226
+	Discriminator Loss = 1.0813267230987549
+Epoch = 49
+	Generator Loss = 1.1251578330993652
+	Discriminator Loss = 1.2903895378112793
+Epoch = 50
+	Generator Loss = 1.5843453407287598
+	Discriminator Loss = 0.7047127485275269
+CPU times: user 11min 59s, sys: 1min 45s, total: 13min 44s
+Wall time: 30min 26s

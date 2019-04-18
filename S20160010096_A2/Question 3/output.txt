@@ -1,0 +1,270 @@
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+
+no. of images = 3126
+
+Test Shape = (128, 128, 3)
+
+Number Of Batches = 92
+
+2944
+Number of Bactches = 92
+Batch Size = 32
+
+Epoch = 1
+	Generator Loss = 7.635019302368164
+	Discriminator Loss = 0.0007488125120289624
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 2
+	Generator Loss = 8.257295608520508
+	Discriminator Loss = 0.00029488722793757915
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 3
+	Generator Loss = 8.826700210571289
+	Discriminator Loss = 0.00015606253873556852
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 4
+	Generator Loss = 8.643171310424805
+	Discriminator Loss = 0.00023137776588555425
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 5
+	Generator Loss = 9.542734146118164
+	Discriminator Loss = 8.79541112226434e-05
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 6
+	Generator Loss = 9.81679916381836
+	Discriminator Loss = 6.002172449370846e-05
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 7
+	Generator Loss = 10.340239524841309
+	Discriminator Loss = 3.546573134372011e-05
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 8
+	Generator Loss = 10.390935897827148
+	Discriminator Loss = 3.17620397254359e-05
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 9
+	Generator Loss = 11.117086410522461
+	Discriminator Loss = 1.6626136130071245e-05
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 10
+	Generator Loss = 11.38064193725586
+	Discriminator Loss = 1.2844967386627104e-05
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 11
+	Generator Loss = 11.393350601196289
+	Discriminator Loss = 1.1621144039963838e-05
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 12
+	Generator Loss = 11.603572845458984
+	Discriminator Loss = 9.589811270416249e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 13
+	Generator Loss = 11.73791217803955
+	Discriminator Loss = 8.643504770589061e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 14
+	Generator Loss = 11.726004600524902
+	Discriminator Loss = 8.628140676592011e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 15
+	Generator Loss = 11.839795112609863
+	Discriminator Loss = 7.972981620696373e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 16
+	Generator Loss = 11.884471893310547
+	Discriminator Loss = 7.068313607305754e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 17
+	Generator Loss = 12.009565353393555
+	Discriminator Loss = 6.214380391611485e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 18
+	Generator Loss = 12.223175048828125
+	Discriminator Loss = 5.435247658169828e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 19
+	Generator Loss = 12.38789176940918
+	Discriminator Loss = 4.480751158553176e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 20
+	Generator Loss = 12.49049186706543
+	Discriminator Loss = 3.878175903082592e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 21
+	Generator Loss = 12.642077445983887
+	Discriminator Loss = 3.3217897907888982e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 22
+	Generator Loss = 12.76510238647461
+	Discriminator Loss = 2.9184436698415084e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 23
+	Generator Loss = 12.768129348754883
+	Discriminator Loss = 2.8965650926693343e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 24
+	Generator Loss = 12.897903442382812
+	Discriminator Loss = 2.541009962442331e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 25
+	Generator Loss = 13.025996208190918
+	Discriminator Loss = 2.358915935474215e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 26
+	Generator Loss = 13.056517601013184
+	Discriminator Loss = 2.166168087569531e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 27
+	Generator Loss = 13.178962707519531
+	Discriminator Loss = 1.9439619336480973e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 28
+	Generator Loss = 13.255749702453613
+	Discriminator Loss = 1.8425051848680596e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 29
+	Generator Loss = 13.231969833374023
+	Discriminator Loss = 1.8102708736478235e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 30
+	Generator Loss = 13.328140258789062
+	Discriminator Loss = 1.647947215133172e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 31
+	Generator Loss = 13.424116134643555
+	Discriminator Loss = 1.501927954450366e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 32
+	Generator Loss = 13.529903411865234
+	Discriminator Loss = 1.3458901548801805e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 33
+	Generator Loss = 13.534627914428711
+	Discriminator Loss = 1.509977209934732e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 34
+	Generator Loss = 13.664226531982422
+	Discriminator Loss = 1.194056153508427e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 35
+	Generator Loss = 13.79885482788086
+	Discriminator Loss = 1.0351845958211925e-06
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 36
+	Generator Loss = 13.900708198547363
+	Discriminator Loss = 9.359986279378063e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 37
+	Generator Loss = 13.938102722167969
+	Discriminator Loss = 8.945614808908431e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 38
+	Generator Loss = 13.952432632446289
+	Discriminator Loss = 8.797613872957299e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 39
+	Generator Loss = 14.110974311828613
+	Discriminator Loss = 7.507969144171511e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 40
+	Generator Loss = 14.171906471252441
+	Discriminator Loss = 7.161143003031611e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 41
+	Generator Loss = 14.205732345581055
+	Discriminator Loss = 6.843258688604692e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 42
+	Generator Loss = 14.246938705444336
+	Discriminator Loss = 6.598817776648502e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 43
+	Generator Loss = 14.369861602783203
+	Discriminator Loss = 5.82578138619283e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 44
+	Generator Loss = 14.407817840576172
+	Discriminator Loss = 5.605675710285141e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 45
+	Generator Loss = 14.445014953613281
+	Discriminator Loss = 5.382528911468398e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 46
+	Generator Loss = 14.550167083740234
+	Discriminator Loss = 4.872916861131671e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 47
+	Generator Loss = 14.584741592407227
+	Discriminator Loss = 4.821988568437519e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 48
+	Generator Loss = 14.604927062988281
+	Discriminator Loss = 4.851752350987226e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 49
+	Generator Loss = 14.743616104125977
+	Discriminator Loss = 4.0483672592017683e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+Epoch = 50
+	Generator Loss = 14.809732437133789
+	Discriminator Loss = 3.766575673580519e-07
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
+CPU times: user 17min 23s, sys: 2min 29s, total: 19min 53s
+Wall time: 26min 40s
+
+X_data shape: (8, 128, 128, 3) (8, 128, 128, 3)
+(8, 128, 128, 3)
+<Figure size 288x288 with 0 Axes>
